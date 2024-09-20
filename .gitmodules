@@ -1,0 +1,3 @@
+[submodule "Olympics-data-analysis"]
+	path = Olympics-data-analysis
+	url = https://github.com/yamaguchi-saeed/Olympics-data-analysis.git
